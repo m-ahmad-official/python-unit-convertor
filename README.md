@@ -1,3 +1,3 @@
-# Project 01: Unit Convertor
+# Project 02: Unit Convertor
 
 ## This is my second python project
